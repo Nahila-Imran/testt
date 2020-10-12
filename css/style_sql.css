@@ -1,0 +1,66 @@
+
+
+
+
+   #wrapper{
+    width: 80%;
+    margin: 20px auto 0;
+  }
+  #signup-form{
+      padding: 100px;
+      
+  }
+  #logo{
+      font-size: 32px;
+      padding: 20px 0 0 20px;
+  }
+  ul {
+      font-size: 18px;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: gray;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover:not(.active) {
+      background-color: #111;
+    }
+  
+    .active {
+      background-color: #4CAF50;
+    }
+  
+    .navbar {
+      overflow: hidden;
+    }
+    
+    table {
+      border-collapse: collapse;
+      width: 80%;
+    }
+    
+    th, td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    #content-wrapper {
+      margin-top: 40px;
+      text-align: center;
+      color: #4CAF50;
+    }
+    
+    
